@@ -55,12 +55,6 @@ The solution is a scalable, 3-tier cloud-native application designed for high av
     * **Amazon S3 / Azure Blob Storage:** For storing large multimedia assets (3D models, high-res images, videos, audio files).
     * **Vector Database (e.g., Chroma/Pinecone):** To store the AYUSH knowledge base for the AI chatbot.
 
-Here is a conceptual diagram illustrating the architecture:
-
-http://googleusercontent.com/image_generation_content/0
-
-
-
 ---
 
 ## Use Cases
@@ -71,12 +65,6 @@ Our platform is designed for a diverse set of users, each with unique needs and 
 2.  **General Enthusiast:** A user interested in traditional remedies asks the "Virtual Vaidya" chatbot, "What plants are good for a cold?" The bot suggests the "Respiratory Health" tour and links to the 3D models for Tulsi, Ginger, and Pepper. The user takes the gamified tour and bookmarks the plants.
 3.  **AYUSH Practitioner:** A Siddha doctor uses the app on a tablet to educate a patient. They pull up the 3D model of a specific herb, rotate it to show the roots and leaves, and play the audio description of its uses, helping the patient understand their prescription better.
 4.  **Tourist or Researcher:** A researcher or tourist visiting a physical herbal garden (which may have limited signage) can use a (future) "image recognition" feature to scan a real plant, identify it, and instantly pull up its 3D model and data from the app.
-
-Here is a Use Case Diagram for the AYUSH Digital Flora:
-
-http://googleusercontent.com/image_generation_content/1
-
-
 
 ## Technology Stack
 
